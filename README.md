@@ -50,3 +50,11 @@ TRITON Framework![image](https://github.com/Esamgold/ICS-TRISIS-TRITON-HATMAN/as
 
 ![image](https://github.com/Esamgold/ICS-TRISIS-TRITON-HATMAN/assets/76063102/8a366077-df0e-4293-ab76-f82bddcdffb9)
 
+Learn more
+Technical Analysis:
+https://www.dragos.com/wp-content/uploads/TRISIS-01.pdf 
+https://www.youtube.com/watch?v=f09E75bWvkk 
+https://www.slideshare.net/DragosInc/hunting-for-xenotime-and-the-next-big-thing 
+https://www.mandiant.com/resources/blog/triton-attribution-russian-government-owned-lab-most-likely-built-tools 
+https://github.com/NozomiNetworks/tricotools 
+https://www.bsi.bund.de/DE/Themen/Industrie_KRITIS/ICS/Tools/RAPSN_SETS/RAPSN_SETS_node.html
